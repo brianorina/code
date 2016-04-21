@@ -1,0 +1,35 @@
+oopii@oopiibox:~$ ls
+a.out               Hello world output.txt    variable1.cpp
+Desktop             Music                     variable1.cpp.code
+Documents           oop2                      variable1.cpp.output
+Downloads           Pictures                  variables2.cpp
+forloop.cpp         Public                    variables.cpp
+forloop.cpp.output  readme                    variables.cpp.output
+forwhileloop.cpp    Templates                 va.txt
+Hello world         trial.forloop.cpp         Videos
+Helloworld.cpp      trial.forloop.cpp.output
+oopii@oopiibox:~$ g++ forwhile.cpp
+g++: error: forwhile.cpp: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+oopii@oopiibox:~$ g++ forwhileloop.cpp
+oopii@oopiibox:~$ ./a.out
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+oopii@oopiibox:~$ 
+
+
+
+
+
+
+
+

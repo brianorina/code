@@ -1,0 +1,35 @@
+oopii@oopiibox:~$ ls
+a.out                    Hello world output.txt    variable1.cpp
+Desktop                  Music                     variable1.cpp.code
+Documents                nested.cpp                variable1.cpp.output
+Downloads                oop2                      variables2.cpp
+forloop.cpp              Pictures                  variables.cpp
+forloop.cpp.output       Public                    variables.cpp.output
+forwhileloop.cpp         readme                    va.txt
+forwhileloop.cpp.output  Templates                 Videos
+Hello world              trial.forloop.cpp
+Helloworld.cpp           trial.forloop.cpp.output
+oopii@oopiibox:~$ g++ nested.cpp
+nested.cpp: In function ‘int main()’:
+nested.cpp:11:1: error: expected ‘;’ before ‘else’
+ else
+ ^
+oopii@oopiibox:~$ g++ nested.cpp
+oopii@oopiibox:~$ ./a.out
+x is greater than y
+x is equal to 6
+oopii@oopiibox:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

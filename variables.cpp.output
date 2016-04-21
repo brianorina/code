@@ -1,0 +1,35 @@
+oopii@oopiibox:~$ ls
+a.out      Downloads       Hello world output.txt  Pictures  Templates
+Desktop    Hello world     Music                   Public    variables.cpp
+Documents  Helloworld.cpp  oop2                    readme    Videos
+oopii@oopiibox:~$ g++ variables.cpp
+oopii@oopiibox:~$ /.a.out
+bash: /.a.out: No such file or directory
+oopii@oopiibox:~$ ./a.out
+2 12oopii@oopiibox:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

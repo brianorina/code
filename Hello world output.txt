@@ -1,0 +1,35 @@
+oopii@oopiibox:~$ ls
+a.out    Documents  Hello world  oop2      Public  Templates
+Desktop  Downloads  Music        Pictures  readme  Videos
+oopii@oopiibox:~$ g++ Hello world
+g++: error: Hello: No such file or directory
+g++: error: world: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+oopii@oopiibox:~$ g++ Hello world.cpp
+g++: error: Hello: No such file or directory
+g++: error: world.cpp: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+oopii@oopiibox:~$ ls
+a.out    Documents  Hello world     Music  Pictures  readme     Videos
+Desktop  Downloads  Helloworld.cpp  oop2   Public    Templates
+oopii@oopiibox:~$ g++ Helloworld.cpp
+oopii@oopiibox:~$ ./a.out
+Hello, world!
+oopii@oopiibox:~$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
