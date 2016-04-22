@@ -1,0 +1,30 @@
+oopii@oopiibox:~$ ls
+a.out                    helloworld.whileloop.solution.cpp  trial.forloop.cpp
+code                     Hellowworld.solution.cpp           trial.forloop.cpp.output
+constants.cpp            Music                              upload procedure.txt
+Desktop                  nested.cpp                         variable1.cpp
+Documents                nested.cpp.output                  variable1.cpp.code
+dowhileloop.cpp          nestedtrial.cpp                    variable1.cpp.output
+Downloads                oop2                               variables
+forloop.cpp              Pictures                           variables2.cpp
+forloop.cpp.output       procedure code.txt                 variables.cpp
+forwhileloop.cpp         Public                             variables.cpp.output
+forwhileloop.cpp.output  readme                             va.txt
+Hello world              switchcase.cpp                     Videos
+Helloworld.cpp           switchcase.cpp.output
+Hello world output.txt   Templates
+oopii@oopiibox:~$ g++ dowhileloop.cpp
+dowhileloop.cpp: In function ‘int main()’:
+dowhileloop.cpp:10:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+oopii@oopiibox:~$ g++ dowhileloop.cpp
+oopii@oopiibox:~$ ./a.out
+2
+Hello, World!
+Hello, World!
+oopii@oopiibox:~$ 
+
+
+
+

@@ -1,0 +1,30 @@
+oopii@oopiibox:~$ ls
+a.out                       helloworld.whileloop.solution.cpp  readme
+basicstatistics.cpp         Hellowworld.solution.cpp           switchcase.cpp
+basicstatistics.cpp.output  multiples2.cpp                     switchcase.cpp.output
+code                        multiples2.cpp.output              Templates
+constants.cpp               multiples3.cpp                     trial.forloop.cpp
+Desktop                     multiples3.cpp.output              trial.forloop.cpp.output
+Documents                   multiples.cpp                      upload procedure.txt
+dowhileloop.cpp             multiples.cpp.output               variable1.cpp
+dowhileloop.cpp.output      Music                              variable1.cpp.code
+Downloads                   nested.cpp                         variable1.cpp.output
+factorial.cpp               nested.cpp.output                  variables
+forloop.cpp                 nestedtrial.cpp                    variables2.cpp
+forloop.cpp.output          oop2                               variables.cpp
+forwhileloop.cpp            Pictures                           variables.cpp.output
+forwhileloop.cpp.output     primenumbers.cpp                   va.txt
+Hello world                 primenumbers.cpp.output            Videos
+Helloworld.cpp              procedure code.txt
+Hello world output.txt      Public
+oopii@oopiibox:~$ g++ factorial.cpp
+oopii@oopiibox:~$ ./a.out
+Enter a number:4
+the factorial of0is24.
+oopii@oopiibox:~$ 
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+oopii@oopiibox:~$ ls
+a.out                       Hello world output.txt             readme
+basicstatistics.cpp         helloworld.whileloop.solution.cpp  switchcase.cpp
+basicstatistics.cpp.output  Hellowworld.solution.cpp           switchcase.cpp.output
+code                        multiples2.cpp                     Templates
+constants.cpp               multiples.cpp                      trial.forloop.cpp
+Desktop                     multiples.cpp.output               trial.forloop.cpp.output
+Documents                   Music                              upload procedure.txt
+dowhileloop.cpp             nested.cpp                         variable1.cpp
+dowhileloop.cpp.output      nested.cpp.output                  variable1.cpp.code
+Downloads                   nestedtrial.cpp                    variable1.cpp.output
+forloop.cpp                 oop2                               variables
+forloop.cpp.output          Pictures                           variables2.cpp
+forwhileloop.cpp            primenumbers.cpp                   variables.cpp
+forwhileloop.cpp.output     primenumbers.cpp.output            variables.cpp.output
+Hello world                 procedure code.txt                 va.txt
+Helloworld.cpp              Public                             Videos
+oopii@oopiibox:~$ g++ multiples2.cpp
+oopii@oopiibox:~$ ./a.out
+12
+-1
+
+10
+2
+90
+18
+65
+13
+
+

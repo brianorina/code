@@ -1,0 +1,33 @@
+oopii@oopiibox:~$ ls
+a.out                    Helloworld.cpp                     switchcase.cpp.output
+basicstatistics.cpp      Hello world output.txt             Templates
+code                     helloworld.whileloop.solution.cpp  trial.forloop.cpp
+constants.cpp            Hellowworld.solution.cpp           trial.forloop.cpp.output
+Desktop                  Music                              upload procedure.txt
+Documents                nested.cpp                         variable1.cpp
+dowhileloop.cpp          nested.cpp.output                  variable1.cpp.code
+dowhileloop.cpp.output   nestedtrial.cpp                    variable1.cpp.output
+Downloads                oop2                               variables
+forloop.cpp              Pictures                           variables2.cpp
+forloop.cpp.output       procedure code.txt                 variables.cpp
+forwhileloop.cpp         Public                             variables.cpp.output
+forwhileloop.cpp.output  readme                             va.txt
+Hello world              switchcase.cpp                     Videos
+oopii@oopiibox:~$ g++ basicstatistics.cpp
+oopii@oopiibox:~$ ./a.out
+Enter N: 10
+40
+3
+4
+73
+6
+73
+82
+98
+21
+77
+Mean:47.7
+Max:98
+Min:3
+Range:95
+oopii@oopiibox:~$ 

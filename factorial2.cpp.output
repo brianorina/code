@@ -1,0 +1,30 @@
+oopii@oopiibox:~$ ls
+a.out                       Helloworld.cpp                     Public
+basicstatistics.cpp         Hello world output.txt             readme
+basicstatistics.cpp.output  helloworld.whileloop.solution.cpp  switchcase.cpp
+code                        Hellowworld.solution.cpp           switchcase.cpp.output
+constants.cpp               multiples2.cpp                     Templates
+Desktop                     multiples2.cpp.output              trial.forloop.cpp
+Documents                   multiples3.cpp                     trial.forloop.cpp.output
+dowhileloop.cpp             multiples3.cpp.output              upload procedure.txt
+dowhileloop.cpp.output      multiples.cpp                      variable1.cpp
+Downloads                   multiples.cpp.output               variable1.cpp.code
+factorial                   Music                              variable1.cpp.output
+factorial2.cpp              nested.cpp                         variables
+factorial.cpp               nested.cpp.output                  variables2.cpp
+factorial.cpp.output        nestedtrial.cpp                    variables.cpp
+forloop.cpp                 oop2                               variables.cpp.output
+forloop.cpp.output          Pictures                           va.txt
+forwhileloop.cpp            primenumbers.cpp                   Videos
+forwhileloop.cpp.output     primenumbers.cpp.output
+Hello world                 procedure code.txt
+oopii@oopiibox:~$ g++ factorial2.cpp
+oopii@oopiibox:~$ ./a.out
+Enter a number: 2
+2
+oopii@oopiibox:~$ ./a.out
+Enter a number: 12
+input not supported!
+oopii@oopiibox:~$ 
+
+
